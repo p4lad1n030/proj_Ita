@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.text 
+  {
+    -webkit-text-stroke-width: 4px;
+    -webkit-text-stroke-color: #fcf9f9;
+    font-size: 3em; color: #9a1717;
+    }
+
+
+.bg-purple {
+  background-color: #3b027a;
+}
